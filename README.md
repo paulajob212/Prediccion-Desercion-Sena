@@ -1,0 +1,2 @@
+# Prediccion-Desercion-Sena
+Ejercicio 
